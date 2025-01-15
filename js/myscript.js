@@ -130,7 +130,6 @@ function animation() {
             start: 'top center',
             end: 'bottom bottom',
             toggleActions: 'play reverse play reverse',
-            markers: true
         }
     })
     tlPoint.to('.point', {
